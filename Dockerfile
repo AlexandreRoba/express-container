@@ -1,4 +1,4 @@
-FROM node:8-alpine
+FROM node:6
 
 RUN mkdir -p /var/app
 

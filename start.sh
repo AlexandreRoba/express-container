@@ -2,4 +2,4 @@
 
 npm install
 
-node bin/www
+node-inspector & nodemon --inspect=5858 bin/www
